@@ -10,7 +10,7 @@ aside:
   toc: false
 ---
 
-Referenced letters: [Eileen](https://chineseamerican.org/p/31571), [Yitao](https://mp.weixin.qq.com/s/8VT8aUHDHcb-pmOIztwfFQ), [Kalos](https://chineseamerican.org/p/31656)
+**Referenced letters**: [Eileen](https://chineseamerican.org/p/31571), [Yitao](https://mp.weixin.qq.com/s/8VT8aUHDHcb-pmOIztwfFQ), [Kalos](https://chineseamerican.org/p/31656)
 
 To Eileen, Yitao, Kalos, and the Chinese American Community,
 
