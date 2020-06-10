@@ -5,7 +5,6 @@ date:   2020-06-08 11:00:00 -0000
 categories: Race
 tags: [Race, Open Letters, Asian Americans]
 sharing: true
-show_edit_on_github: false
 key: post-chinese-american-open-letter-en
 aside:
   toc: false
