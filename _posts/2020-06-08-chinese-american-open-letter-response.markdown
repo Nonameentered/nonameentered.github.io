@@ -1,9 +1,9 @@
 ---
 layout: article
 title:  "Response to Chinese-American Open Letters"
-date:   2020-06-08 11:00:00 -0000
+date:   2020-06-09 11:00:00 -0000
 categories: Race
-tags: [Race, Open Letters, Asian Americans]
+tags: [Race, Open Letters, Asian Americans, English]
 sharing: true
 key: post-chinese-american-open-letter-en
 aside:
@@ -16,9 +16,9 @@ To Eileen, Yitao, Kalos, and the Chinese American Community,
 
 My name is Matthew Shu, and I am a rising freshman at Yale University. Eileen, your letter reaffirmed to me why I have chosen to attend Yale, and I hope to collaborate with you in the future to achieve the changes we both call for. However, I disagree with parts of your letter and I worry that similar disagreements have distracted others in the Chinese American and wider Asian American community from accepting your premise and call to action. After reading Yitao’s and Kalos’ thoughtful responses, I hope to add my voice to this discussion.
 
-Eileen, I believe it is imprecise to suggest “we owe everything” to Black Americans. When we make this claim, we’ve discounted our own agency in the fight to make America a more equal society. We’ve overlooked how Wong Kim Ark’s struggle cemented for all Americans the right to birthright citizenship. We’ve forgotten how Asian Americans in _Lau v Nichols_ fought for “English as a Second Language” programs to become widespread in America’s public schools. The struggle against racism is not and has never been the struggle of Black Americans on one side and White Americans on the other, with everyone else on the sidelines rooting for a particular side. As you accurately point out, the protests in the aftermath of Vincent Chin’s murder represent a powerful moment of interracial cooperation. But he is not remembered by most Americans. Asian Americans are not the only ones who have forgotten this symbol of cooperation. 
+Eileen, I do not agree with the mindset that “we owe everything” to Black Americans. When we make this claim, we’ve discounted our own agency in the fight to make America a more equal society. We’ve overlooked how Wong Kim Ark’s struggle cemented for all Americans the right to birthright citizenship. We’ve forgotten how Asian Americans in _Lau v Nichols_ fought for “English as a Second Language” programs to become widespread in America’s public schools. The struggle against racism is not and has never been the struggle of Black Americans on one side and White Americans on the other, with everyone else on the sidelines rooting for a particular side. As you accurately point out, the protests in the aftermath of Vincent Chin’s murder represent a powerful moment of interracial cooperation. But he is not remembered by most Americans. Asian Americans are not the only ones who have forgotten this symbol of cooperation. 
 
-It is important to chastise those in our community who have stayed silent following George Floyd’s murder, especially considering how we are the targets of a surge of COVID-19-fueled racism ourselves, but we must also acknowledge the widespread complicity in perpetuating recent racism against Asian Americans. In this divisive atmosphere, it is unfair to place blame solely on Asian Americans for this “kind of silence.” While racism never justifies further racism, it is important to contextualize and understand other views when we reach out to others. What we owe Black Americans and other protesters today is not a debt, but rather, our cooperation in movements to create a better America.
+In this divisive atmosphere, Asian Americans have not been the only ones complicit in this “kind of silence” in the aftermath of heinous racist acts—from George Floyd’s murder to COVID-19-fueled xenophobia. We must chastise those in our community who stay silent, but in remembering our past, we must also clarify our message. What we owe Black Americans and other protesters today is not a debt, but rather, further cooperation in movements to create a better America.
 
 Yitao, you are correct in calling out stereotypes against Chinese Americans. However, I believe you have fallen victim to similar stereotypes about other communities, as well as our own. When we attribute the general success of Chinese Americans as a product of our Chinese culture, we are implying the inferiority of Black and Hispanic cultures. By holding this viewpoint, we suggest that Chinese Americans are superior to others because of the cultural values we hold of self-reliance, hard work, and entrepreneurship. But as Kalos notes, are we then suggesting that other Americans do not place similar pride in these values? If so, why do second-generation Chinese immigrants in Spain have lower educational attainment than all other Spanish minorities [\[6\]](#references)? Are Chinese Spaniards somehow deficient in the Chinese cultural values you claim as the primary reason for Chinese American success?
 {: #spanish}
@@ -31,7 +31,7 @@ Yitao, I do not doubt you and all of our first-generation Chinese American paren
 Unlike in America, only 40% of Chinese immigrants in Spain have even graduated high school, and less than 5% have a Bachelor's degree or higher [\[6\]](#references). Only 11.7% of second-generation Chinese Spaniards are expected to obtain a university degree, compared to 21.4% across all ethnic minorities in Spain. Despite sharing the same home culture, there is a clear discrepancy in educational attainment between Chinese Spaniards and Chinese Americans. Chinese culture is an inadequate explanation for Chinese American success.
 
 {: #optimism}
-Immigrant optimism is a hypothesis in sociology explaining the statistical observation that 1.5 and 2nd generation Americans achieve the greatest educational success [\[3\]](#references). There are two reasons for this idea. The first is that voluntary immigrants to America see adjustment issues as temporary and are more willing to find solutions to overcome the challenges faced. The second, more depressing, reason is that later generations of minorities have become disillusioned by the racism they have encountered as they strive for the American Dream. When we measure success by the change in education level relative to parents, it is actually second-generation Hispanic Americans who are the most upwardly mobile. Unfortunately, this upward trend does not continue to third-generation Hispanic Americans. Intergenerational racist stigma is an important contributor for why groups like the descendants of African American slaves face greater obstacles in mobility.
+When we measure success by the change in education level relative to parents, it is actually second-generation Hispanic Americans who are the most upwardly mobile [\[3\]](#references). Unfortunately, this upward trend does not continue to third-generation Hispanic Americans. Immigrant optimism is a hypothesis in sociology explaining this statistical observation that for some ethnic and racial groups, 1.5 and second-generation Americans achieve the greatest educational success. There are two reasons for this idea. The first is that voluntary immigrants to America see adjustment issues as temporary and are more willing to find solutions to overcome the challenges faced. The second, more depressing, reason is that later generations of minorities have become disillusioned by the racism they have encountered as they strive for the American Dream.
 
 {: #pachinko}
 Like Chinese Americans, Korean Americans are another ethnic group in America seen as a “model minority.” But in Japan, Koreans are targeted similarly to Blacks in America. In her novel Pachinko, Min-Jin Lee poignantly shows the damaging effects of this racism [\[4\]](#references). Here is an excerpt capturing this frustration in a Korean-Japanese child:
@@ -52,7 +52,7 @@ Yitao, I too, do not condone the violence and damage done to small businesses as
 
 Best,
 
-Matthew Shu
+Matthew Shu (束骏杰)
 * * *
 ##### References
 {: #references}
