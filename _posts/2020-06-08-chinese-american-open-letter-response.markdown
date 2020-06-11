@@ -9,7 +9,7 @@ key: post-chinese-american-open-letter-en
 aside:
   toc: false
 ---
-[Chinese version（中文版)]({% link _posts/2020-06-11-对致美国华裔公开信的回复.markdown %})
+[Chinese version（中文版)]({% link _posts/2020-06-11-chinese-american-open-letter-response-cn.markdown %})
 
 **Referenced letters**: [Eileen](https://chineseamerican.org/p/31571), [Yitao](https://mp.weixin.qq.com/s/8VT8aUHDHcb-pmOIztwfFQ), [Kalos](https://chineseamerican.org/p/31656)
 
