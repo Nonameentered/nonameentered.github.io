@@ -8,6 +8,7 @@ sharing: true
 key: post-chinese-american-open-letter-en
 aside:
   toc: false
+excerpt: My name is Matthew Shu, and I am a rising freshman at Yale University. Eileen, your letter reaffirmed to me why I have chosen to attend Yale, and I hope to collaborate with you in the future to achieve the changes we both call for. However, I disagree with parts of your letter and I worry that similar disagreements have distracted others in the Chinese American and wider Asian American community from accepting your premise and call to action. After reading Yitao’s and Kalos’ thoughtful responses, I hope to add my voice to this discussion.
 ---
 [Chinese version（中文版)]({% link _posts/2020-06-11-chinese-american-open-letter-response-cn.markdown %})
 

@@ -5,9 +5,11 @@ date:   2020-06-11 11:00:00 −0500
 categories: Race
 tags: [Race, Open Letters, Asian Americans, Chinese]
 sharing: true
+lang: zh
 key: post-chinese-american-open-letter-ch
 aside:
   toc: false
+excerpt: 我是束骏杰，一名耶鲁大学新生。 艾琳，读了你的公开信后，我更坚定的相信选择耶鲁是正确的，我很期待将来与你合作以实现我们所期望的改变。 但是，你的公开信中的部分观点我无法赞同。我担心这些观点会在美国华裔乃至亚裔群体中引发分歧，导致大家无法达成共识并采取行动。在阅读了一涛和朱锟（Kalos）的深入答复后，我也希望表达一些我的想法。
 ---
 [英文版（English version）]({% link _posts/2020-06-08-chinese-american-open-letter-response.markdown %})
 
