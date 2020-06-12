@@ -38,4 +38,4 @@ titles:
   </div>
 </div>
 
-
+[See my recommended reading list!]({% link booklist.md %})
