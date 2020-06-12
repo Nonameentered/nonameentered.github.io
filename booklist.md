@@ -60,6 +60,7 @@ Iris Chang is my favorite Chinese American author. The Rape of Nanking is meticu
 ### Pachinko
 ### Born a Crime: Stories from as South African Childhood
 ### Why Are All the Black Kids Sitting Together in the Cafeteria?
+### America for Americans
 ## Asian America
 ### Chinese in America
 ### The Making of Asian America
