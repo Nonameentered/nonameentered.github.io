@@ -50,7 +50,7 @@ A Harry Potter fan-fiction by Annerb, The Changeling is an amazing exploration i
 ### Born a Crime: Stories from as South African Childhood
 Trevor Noah is an amazing storyteller. He makes intriguing observations about the role of language in gaining acceptance among groups.
 ### Political Tribes: Group Instinct and the Fate of Nations
-People are divided into tribes—ideological, racial, ethnic, sports teams—our identities and membership in these tribes shape our views. Amy Tan explores the consequences of not recognizing the powerful influence of these tribes in foreign policy and politics today.
+People are divided into tribes—ideological, racial, ethnic, sports teams—our identities and membership in these tribes shape our views. Amy Chua explores the consequences of not recognizing the powerful influence of these tribes in foreign policy and politics today.
 ### So You've Been Publicly Shamed
 When is it right to be outraged on the internet and when have we taken it too far? Jon Ronson explores these questions through his interviews with experts and those who have been publicly shamed.
 ### The Rape of Nanking
