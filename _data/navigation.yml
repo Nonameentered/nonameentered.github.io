@@ -1,6 +1,19 @@
 header:
   - titles:
       # @start locale config
+      en      : &EN       Technaplex
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  Technaplex
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      # @end locale config
+    url: https://technaplex.com/
+  - titles:
+      # @start locale config
       en      : &EN       Reading Recommendations
       en-GB   : *EN
       en-US   : *EN
