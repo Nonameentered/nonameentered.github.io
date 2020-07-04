@@ -32,8 +32,9 @@ titles:
     <div class="item__description">
         <p>Hi! I am a Thai-Chinese-American interested in Asian American studies, education, and programming.
   A Class of 2020 graduate of the Science, Mathematics, and Computer Science Magnet Program at Montgomery Blair High School,
-  I will be continuing my education at Yale University.</p>
-        <p>Contact me at <a target="_blank" href="https://mailhide.io/e/xnfp8">m......@yale.edu</a></p>
+  After a gap year, I will continue my education at Yale University.</p>
+        <p>Contact me at <a target="_blank" href="https://mailhide.io/e/5MddT">m......@gmail.com</a></p>
+
     </div>
   </div>
 </div>
