@@ -97,7 +97,6 @@ I’m currently in the process of applying this principle of standardization to 
 
 Five years from now, I hope I can look back and not see many changes to this list, with the exception of my in-development ePub ebook reader of course.
 
-## Footnotes
 [^1]: This remains my only experience with [Heroku](https://www.heroku.com/). It was also my first experience with the mess that is deployment
 [^2]: Apple revamped Reminders in iOS 13 and macOS Catalina, and had I not already bought Things 3, I likely would have tried coming up with a system using that app instead. My system in Things 3 works well for me, and I don’t expect to move away from it anytime soon, but Reminders is a solid app to keep in mind if you don’t want to pay. While I don’t believe my system transfers easily into Reminders, I don’t think it really should. If you start with Reminders, I’d spend some time looking at how other people use it and then experiment with it yourself to see how you can develop a system around that app.
 [^3]: There are some clients for Zotero on iOS that I don’t use. I prefer using [Zotfile](http://zotfile.com/) and iCloud Drive.
