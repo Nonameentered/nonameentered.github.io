@@ -14,7 +14,20 @@ header:
     url: https://technaplex.com/
   - titles:
       # @start locale config
-      en      : &EN       Reading Recommendations
+      en      : &EN       Resume
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  简历
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      # @end locale config
+    url: /assets/matthew_shu_11_26_2020_resume.pdf
+  - titles:
+      # @start locale config
+      en      : &EN       Reading
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
