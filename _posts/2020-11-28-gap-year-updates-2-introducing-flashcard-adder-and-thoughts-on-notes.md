@@ -18,7 +18,7 @@ I’ve read many new books in the past few years influential in shaping my thoug
 
 ## Note-taking: What’s Missing?
 
-Spurred on by discussion of note-taking in CGPGrey and Myke Hurley’s Cortex podcast, I’ve read Dr. Sonke Ahrens’ [How To Take Smart Notes](https://takesmartnotes.com/) and have begun a zettelkasten system in Bear. I’ve found the guidelines laid out by Dr. Ahrens useful and this iteration of my notes system has been the best I’ve ever had[^5], but I’ve still had some problems with maintainability. 
+Spurred on by discussion of note-taking in CGPGrey and Myke Hurley’s Cortex podcast, I’ve read Dr. Sonke Ahrens’ [How To Take Smart Notes](https://takesmartnotes.com/) and have begun a [zettelkasten](https://leananki.com/zettelkasten-method-smart-notes/) system in Bear. I’ve found the guidelines laid out by Dr. Ahrens useful and this iteration of my notes system has been the best I’ve ever had[^5], but I’ve still had some problems with maintainability. 
 
 I’m currently retooling this system and catching up on a large pile of unsorted “temporary” notes. Part of this process has been identifying what notes have seemed out-of-place in the current iteration of my system, and what roadblocks are causing this build-up of notes in my inbox. Some problems are just related to how I’ve structured my notes in Bear, and something I might elaborate on in the future is the idea of “snippet notes,” which I’ve been storing haphazardly or not at all [^6]. The main problem I’ve found though is that note-taking doesn’t improve my memory, and while the idea of building a second brain is excellent, I still find it easier to see connections between ideas when my first brain remembers more.
 
