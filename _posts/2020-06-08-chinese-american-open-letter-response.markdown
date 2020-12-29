@@ -3,7 +3,7 @@ layout: article
 title:  Response to Chinese-American Open Letters
 date:   2020-06-08 11:00:00 −0500
 categories: Race
-tags: [Race, Open Letters, Asian Americans, English]
+tags: [Race, Open Letters, Asian Americans, Activism]
 sharing: true
 key: post-chinese-american-open-letter-en
 aside:

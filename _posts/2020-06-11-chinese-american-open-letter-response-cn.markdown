@@ -3,7 +3,7 @@ layout: article
 title:  对致美国华裔公开信的回复
 date:   2020-06-11 11:00:00 −0500
 categories: Race
-tags: [Race, Open Letters, Asian Americans, Chinese]
+tags: [Race, Open Letters, Asian Americans, Activism]
 sharing: true
 lang: zh
 key: post-chinese-american-open-letter-ch
