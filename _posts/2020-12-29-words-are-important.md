@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  Words are Important, Activists Need Better Branding
+title:  "Words are Important, Activists Need Better Branding"
 date:   2020-12-29 14:00:00 −0500
 categories: Politics
 tags: [Activism]
