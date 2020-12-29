@@ -7,7 +7,7 @@ tags: [Activism]
 sharing: true
 key: words-are-important
 aside:
-	toc: false
+  toc: false
 ---
 I’m in the middle of reading the eye-opening *Democracy for Realists*, and as I read through Christopher Achen and Larry Bartels' systematic dismantling of nearly all my notions about democracy, I’ve become particularly drawn to the phenomenon of ‘framing effects’[^1]. People’s opinions are generally not well-defined, and different wording of the same concept elicit different responses. 
 
